@@ -7,7 +7,6 @@ include_once "../_header.php";
 <script src="script.js"></script>
 </div>
 
-
 <?php
 include_once "../_footer.php"
 ?>
