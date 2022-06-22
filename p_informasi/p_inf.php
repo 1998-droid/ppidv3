@@ -7,7 +7,7 @@ include_once "../_header.php";
               if (isset($_SESSION["message"])) {
                 echo $_SESSION["message"];
                 $_SESSION["message"] = null;
-              }
+              } 
             ?>
             <h4 class="mb-3">Contact Form</h4>
           </div>
