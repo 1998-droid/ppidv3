@@ -1,0 +1,42 @@
+<ul class="nav navbar-nav">
+          
+            <li class="active"><a href="../home">Home</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Profil <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+              <li><a href="rsud.php?page=vm">Visi Dan Misi</a></li>
+                <li><a href="rsud.php?page=struktur">Struktur Organisasi RSUD Majenang</a></li>
+                <li><a href="../profil/pro_struk.php">Profil Pejabat Struktural</a></li>
+                <li role="separator" class="divider"></li>
+                <li class="dropdown-header">Nav header</li>
+                <li><a href="../profil/sk.php">SK TIM PPID</a></li>
+                <li><a href="../profil/s_ppid.php">Struktur Organisasi PPID RSUD</a></li>
+                <li><a href="rsud.php?page=profil2">Profil PPID RSUD</a></li>
+                <li><a href="../profil/t_w.php">Tugas Dan Wewenang PPID RSUD</a></li>
+              </ul>
+            </li>
+            <li><a href="../home/di_publik.php">Daftar Informasi Publik</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Informasi Publik <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+              <li><a href="../INF_PUBLIK/BERKALA.PHP">Berkala</a></li>
+                <li><a href="../INF_PUBLIK/serta_merta.PHP">Serta Merta</a></li>
+                <li><a href="#">Setiap Saat</a></li>
+                <li role="separator" class="divider"></li>
+                <li class="dropdown-header">Nav header</li>
+                <li><a href="../INF_PUBLIK/kecuali.php">Dikecualikan</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Permohonan Informasi <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+              <li><a href="../p_informasi/p_inf.php">Permohonan Informasi</a></li>
+                <li><a href="../p_informasi/p_keb.php">Pengajuan Keberatan</a></li>
+                <li><a href="#">Statistik Permohonan Informasi</a></li>
+                <li role="separator" class="divider"></li>
+                <li class="dropdown-header">Nav header</li>
+                <li><a href="#">Pengaduan</a></li>
+              </ul>
+            </li>
+            <!-- <li><a href="#contact">Contact</a></li> -->
+          </ul>

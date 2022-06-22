@@ -1,0 +1,34 @@
+<?php
+include_once "../_header.php";
+?>
+<div class="container">
+<div class="box" style="margin:auto;">
+<h4>PMKP RSUD MAJENANG</h4>
+<embed type="application/pdf" src="../asset/doc/pmkp.pdf" width="1100" height="500"></embed> 
+
+<div class="box" style="margin:auto;">
+<h4>DOKUMEN KINERJA 2020 MAJENANG</h4>
+<embed type="application/pdf" src="../asset/doc/DOKIN_2020.pdf" width="1100" height="500"></embed> 
+
+<div class="box" style="margin:auto;">
+<h4>DOKUMEN KINERJA 2021 MAJENANG</h4>
+<embed type="application/pdf" src="../asset/doc/DOKIN_2021.pdf" width="1100" height="500"></embed> 
+
+<div class="box" style="margin:auto;">
+<h4>DOKUMEN KINERJA 2022 RSUD MAJENANG</h4>
+<embed type="application/pdf" src="../asset/doc/DOKIN_2022.pdf" width="1100" height="500"></embed> 
+
+<div class="box" style="margin:auto;">
+<h4>LKJIP 2020 RSUD MAJENANG</h4>
+<embed type="application/pdf" src="../asset/doc/LKJIP_2020.pdf" width="1100" height="500"></embed> 
+
+<div class="box" style="margin:auto;">
+<h4>LKJIP 2021 RSUD MAJENANG</h4>
+<embed type="application/pdf" src="../asset/doc/lkjip2021.pdf" width="1100" height="500"></embed> 
+</div>
+</div>
+
+
+<?php
+include_once "../_footer.php"
+?>

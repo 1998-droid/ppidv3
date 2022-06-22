@@ -1,0 +1,69 @@
+[{
+    "id": "643",
+    "text": "Direktur RSUD Majenang",
+    "title": "dr. Reza Prima Muharama",
+    "width": "350",
+    "height": "100",
+    "dir": "horizontal",
+    "img": "../asset/img/reza1.jpg"
+  }, {
+    "id": "656",
+    "text": "Kepala Bagian Umum",
+    "title": "BBB",
+    "width": "350",
+    "height": "100",
+    "dir": "horizontal",
+    "img": "../asset/img/arif1.jpg"
+  }, {
+    "id": "679",
+    "text": "KEPALA Bagian Keperawtan",
+    "title": "CCC",
+    "width": "350",
+    "height": "100",
+    "dir": "horizontal",
+    "img": "../asset/img/cahyodr.jpg"
+  },{
+    "id": "680",
+    "text": "KEPALA bidang kepeg",
+    "title": "CCC",
+    "width": "350",
+    "height": "100",
+    "dir": "vertical",
+    "img": "../asset/img/cahyodr.jpg"
+  },{
+    "id": "681",
+    "text": "KEPALA bidang perencanaan",
+    "title": "CCC",
+    "width": "350",
+    "height": "100",
+    "dir": "vertical",
+    "img": "../asset/img/cahyodr.jpg"
+  },{
+    "id": "681",
+    "text": "KEPALA bidang perencanaan",
+    "title": "CCC",
+    "width": "350",
+    "height": "100",
+    "dir": "vertical",
+    "img": "../asset/img/cahyodr.jpg"
+  },{
+    "id": "643-656",
+    "from": "643",
+    "to": "656",
+    "type": "line"
+  }, {
+    "id": "643-679",
+    "from": "643",
+    "to": "679",
+    "type": "line"
+  }, {
+    "id": "656-680",
+    "from": "656",
+    "to": "680",
+    "type": "line"
+  }, {
+    "id": "656-681",
+    "from": "656",
+    "to": "681",
+    "type": "line"
+  }]
