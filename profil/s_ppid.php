@@ -5,6 +5,7 @@ include_once "../_header.php";
 <div id="diagram_container" style="margin:auto;"></div>
 <script src="../asset/js/diagram.js"></script>
 <script src="script.js"></script>
+<p><h1>haayyyyyy semuanya</h1></p>
 </div>
 
 <?php
