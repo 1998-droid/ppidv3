@@ -6,6 +6,7 @@ include_once "../_header.php";
 <script src="../asset/js/diagram.js"></script>
 <script src="script.js"></script>
 <p><h1>haayyyyyy semuanya</h1></p>
+<h2>coba klon lagi</h2>
 </div>
 
 <?php
