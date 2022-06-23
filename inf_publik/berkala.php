@@ -41,7 +41,7 @@ include_once "../_header.php";
 			<li class="list-group-item list-group-action"><a href="#">Kinerja keuangan tahun 2022</a></li>
             <li class="list-group-item list-group-action"><a href="#">RKA 2022</a></li>
             <li class="list-group-item list-group-action"><a href="#">DPA 2022</a></li>	
-            <li class="list-group-item list-group-action"><a href="#">RBA 2022</a></li>
+            <li class="list-group-item list-group-action"><a href="rsud.php?page=rba">RBA 2022</a></li>
 </ul>
 <h4>4.Ringkasan Laporan Akses Informasi Publik RSUD Majenang</h4>
 <ul class="list-group">
