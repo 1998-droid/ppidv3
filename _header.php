@@ -144,7 +144,10 @@
                 break;
             case 'lkjip2020':
                 include "dok_view/lkjip2020.php";
-                break;        
+                break;   
+           case 'rba':
+                include "dok_view/rba.php";
+                break;     
             default:
                 echo "<center><h3>Maaf. Halaman tidak di temukan !</h3></center>";
                 break;
