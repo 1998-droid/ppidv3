@@ -69,8 +69,8 @@ include_once "../_header.php";
 
 <h4>7. Data Kinerja</h4>
 <ul class="list-group">
-<li class="list-group-item list-group-action"><a href="rsud.php?page=lkjip">LKJIP 2020</a></li>
-<li class="list-group-item list-group-action"><a href="../dok_view/lkjip.php">LKJIP 2021</a></li>
+<li class="list-group-item list-group-action"><a href="rsud.php?page=lkjip2020">LKJIP 2020</a></li>
+<li class="list-group-item list-group-action"><a href="rsud.php?page=lkjip">LKJIP 2021</a></li>
 </ul>
 
 <nav aria-label="Page navigation example">
