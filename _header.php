@@ -55,7 +55,7 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Profil <span class="caret"></span></a>
               <ul class="dropdown-menu">
-              <li><a href="rsud?page=vm">Visi Dan Misi</a></li>
+              <li><a href="rsud.php?page=vm">Visi Dan Misi</a></li>
                 <li><a href="rsud.php?page=struktur">Struktur Organisasi RSUD Majenang</a></li>
                 <li><a href="rsud.php?page=pro_struk">Profil Pejabat Struktural</a></li>
                 <li role="separator" class="divider"></li>
@@ -138,7 +138,10 @@
                 break;
             case 'p_keb':
                 include "p_informasi/p_keb.php";
-                break;         
+                break; 
+            case 'lkjip':
+                include "dok_view/lkjip.php";
+                break;        
             default:
                 echo "<center><h3>Maaf. Halaman tidak di temukan !</h3></center>";
                 break;
