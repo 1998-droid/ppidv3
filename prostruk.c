@@ -179,7 +179,42 @@ include_once "../_header.php";
             </li>
             </li>
           </ul>
-          
+          <table class="table table-xs table-responsive" style="font-size:11px">
+            <thead>
+            <th>No</th>
+            <th>Tk.Pendidikan</th>
+            <th>Jurusan</th>
+            <th>Nama Sekolah</th>
+            <th>Tempat</th>
+            <th>No. Ijazah</th>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td>S-1/Sarjana</td>
+                <td>DOKTER UMUM</td>
+                <td>Universitas Muhammadiyah Yogyakarta</td>
+                <td>Yogyakarta</td>
+                <td>0977/UMY/K/PD/097/200</td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <TD>SLTA</TD>
+                <td>SMA IPA</td>
+                <td>SMU NEGERI 1 CILACAP</td>
+                <td>CILACAP</td>
+                <td>03 MU 102 0087223</td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>SMP</td>
+                <TD></TD>
+                <td>SMP NEGERI 1 CILACAP</td>
+                <td>CILACAP</td>
+                <td>03 OA ob 1159133</td>
+              </tr>
+            </tbody>
+          </table>
       </div>
       <div class="modal-footer">
       <p><b><H5>RSUD MAJENANG &copy; 1998 - <script>document.write(new Date().getFullYear())</script></H5></p>
@@ -225,6 +260,60 @@ include_once "../_header.php";
             </li>
             </li>
           </ul>
+          <div class="table">
+          <table class="table table-xs table-responsive" style="font-size:11px">
+            <thead>
+            <th>No</th>
+            <th>Tk.Pendidikan</th>
+            <th>Jurusan</th>
+            <th>Nama Sekolah</th>
+            <th>Tempat</th>
+            <th>No. Ijazah</th>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td>S-2</td>
+                <td>S-2 MAGISTER HUKUM KESEHATAN</td>
+                <td>UNIVERSITAS JENDRAL SOEDIRMAN</td>
+                <td>PURWOKERTO</td>
+                <td>3460/UN23/E/S-2/2016</td>
+              </tr>
+              <tr>
+                <td>1</td>
+                <td>S-1</td>
+                <td>S-1 KESEHATAN MASYARAKAT</td>
+                <td>UNIVERSITAS JENDRAL SOEDIRMAN</td>
+                <td>PURWOKERTO</td>
+                <td>33382/UN23/E/S-2/2016</td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <TD>SLTA KEJURUAN</TD>
+                <td>PERAWAT</td>
+                <td>SPK PEMDA KUDUS</td>
+                <td>KUDUS</td>
+                <td>093319</td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>SLTP</td>
+                <TD>SEKOLAH MENENGAH PERTAMA</TD>
+                <td>SMP NEGERI 1 SALAMAN</td>
+                <td>SALAMAN</td>
+                <td>03.OB.ob.1477263</td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>SD</td>
+                <TD>SD NEGERI 1 CISALAK</TD>
+                <td>SEKOLAH DASAR</td>
+                <td>CISALAK</td>
+                <td>03.OB.ob.1477263</td>
+              </tr>
+            </tbody>
+          </table>
+          </div>
           
       </div>
       <div class="modal-footer">
@@ -272,7 +361,50 @@ include_once "../_header.php";
             </li>
             </li>
           </ul>
-          
+          <table class="table table-xs table-responsive" style="font-size:11px">
+            <thead>
+            <th>No</th>
+            <th>Tk.Pendidikan</th>
+            <th>Jurusan</th>
+            <th>Nama Sekolah</th>
+            <th>Tempat</th>
+            <th>No. Ijazah</th>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td>S-1/Sarjana</td>
+                <td>KEDOKTERAN UMUM</td>
+                <td>Universitas ISLAM SULTAN AGUNG</td>
+                <td>SEMARANG</td>
+                <td>012000 0384/SA/0617<td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <TD>SLTA</TD>
+                <td>SMA IPA</td>
+                <td>SMA NEGERI CEPU</td>
+                <td>CEPU</td>
+                <td>03 OC ob 0275261</td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>SMP</td>
+                <TD>SLTP UMUM</TD>
+                <td>SMP NEGERI 3 CEPU</td>
+                <td>CEPU</td>
+                <td>03 OA oa NO 104770</td>
+              </tr>
+              <tr>
+                <td>4</td>
+                <td>SD</td>
+                <TD>SEKOLAH DASAR</TD>
+                <td>SD N PURWOKERTO WETAN 1</td>
+                <td>PURWOKERTO</td>
+                <td>03 OA oa NO 104770</td>
+              </tr>
+            </tbody>
+          </table>
       </div>
       <div class="modal-footer">
       <p><b><H5>RSUD MAJENANG &copy; 1998 - <script>document.write(new Date().getFullYear())</script></H5></p>
@@ -317,7 +449,50 @@ include_once "../_header.php";
             </li>
             </li>
           </ul>
-          
+          <table class="table table-xs table-responsive" style="font-size:11px">
+            <thead>
+            <th>No</th>
+            <th>Tk.Pendidikan</th>
+            <th>Jurusan</th>
+            <th>Nama Sekolah</th>
+            <th>Tempat</th>
+            <th>No. Ijazah</th>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td>S-1/Sarjana</td>
+                <td>S-1 ILMU KEDOKTERAN + PROFESI DOKTER</td>
+                <td>Universitas WIJAYAKUSUMA SURABAYA</td>
+                <td>SURABAYA</td>
+                <td>001689<td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <TD>SLTA</TD>
+                <td>SMA SEDERAJAT</td>
+                <td>SMA N 1 KROYA</td>
+                <td>KROYA</td>
+                <td>03 OB Of 102086932</td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>SMP</td>
+                <TD>SLTP UMUM</TD>
+                <td>SMP N 1 KROYA</td>
+                <td>KROYA</td>
+                <td>03 Ob ob NO 104770</td>
+              </tr>
+              <tr>
+                <td>4</td>
+                <td>SD</td>
+                <TD>SEKOLAH DASAR</TD>
+                <td>SD N 1</td>
+                <td>PESANGGRAHAN</td>
+                <td>03 OA oa 0428403</td>
+              </tr>
+            </tbody>
+          </table>
       </div>
       <div class="modal-footer">
       <p><b><H5>RSUD MAJENANG &copy; 1998 - <script>document.write(new Date().getFullYear())</script></H5></p>
@@ -362,7 +537,58 @@ include_once "../_header.php";
             </li>
             </li>
           </ul>
-         
+          <table class="table table-xs table-responsive" style="font-size:11px">
+            <thead>
+            <th>No</th>
+            <th>Tk.Pendidikan</th>
+            <th>Jurusan</th>
+            <th>Nama Sekolah</th>
+            <th>Tempat</th>
+            <th>No. Ijazah</th>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td>S-2</td>
+                <td>S-2 MAGISTER MANAJEMEN</td>
+                <td>Universitas GALUH</td>
+                <td>CIAMIS</td>
+                <td>41231482300288<td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <TD>S-1</TD>
+                <td>SPESIALIS ILMU KESEHATAN</td>
+                <td>STIKES RESPATI TASIKMALAYA</td>
+                <td>TASIKMALAYA</td>
+                <td>0004/SI/KESMAS/IX/2005<td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>SLTA</td>
+                <TD>SMA SEDERAJAT</TD>
+                <td>SMAN MAJENANG</td>
+                <td>MAJENANG</td>
+                <td>01754884</td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>SMP</td>
+                <TD>SLTP UMUM</TD>
+                <td>SMP N 1 MAJENANG</td>
+                <td>MAJENANG</td>
+                <td>0802830</td>
+              </tr>
+              <tr>
+                <td>4</td>
+                <td>SD</td>
+                <TD>SEKOLAH DASAR</TD>
+                <td>SD WANANREJA 10</td>
+                <td>WANANREJA</td>
+                <td>227528</td>
+              </tr>
+            </tbody>
+          </table>
       </div>
       <div class="modal-footer">
       <p><b><H5>RSUD MAJENANG &copy; 1998 - <script>document.write(new Date().getFullYear())</script></H5></p>
@@ -407,7 +633,74 @@ include_once "../_header.php";
             </li>
             </li>
           </ul>
-          
+          <table class="table table-xs table-responsive" style="font-size:11px">
+            <thead>
+            <th>No</th>
+            <th>Tk.Pendidikan</th>
+            <th>Jurusan</th>
+            <th>Nama Sekolah</th>
+            <th>Tempat</th>
+            <th>No. Ijazah</th>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td>S-1</td>
+                <td>S-1 PROFESI NERS</td>
+                <td>STIK Muhammadiyah GOMBONG</td>
+                <td>GOMBONG</td>
+                <td>027-02051975<td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <TD>S-1 SARJANA</TD>
+                <td>S-1 Keperawatan</td>
+                <td>STIKES BINA PUTRA</td>
+                <td>BANJAR PATROMAN</td>
+                <td>431.881.420.100.232.000<td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>SLTA</td>
+                <TD>SMA SEDERAJAT</TD>
+                <td>SMAN MAJENANG</td>
+                <td>MAJENANG</td>
+                <td>01754884</td>
+              </tr>
+              <tr>
+                <td>4</td>
+                <td>DIPLOMA III</td>
+                <TD>D-III KEPERAWATAN</TD>
+                <td>AKPER SERULINGMAS MAOS</td>
+                <td>MAOS</td>
+                <td>067821</td>
+              </tr>
+              <tr>
+                <td>5</td>
+                <td>SLTA</td>
+                <TD>SLTP SPK</TD>
+                <td>SPK DEPKES PURWOKERTO</td>
+                <td>PURWOKERTO</td>
+                <td>116368</td>
+              </tr>
+              <tr>
+                <td>6</td>
+                <td>SLTP</td>
+                <TD>SLTP UMUM</TD>
+                <td>SMP N 2 MAJENANG</td>
+                <td>MAJENANG</td>
+                <td>03 OA ob 1363480</td>
+              </tr>
+              <tr>
+                <td>7</td>
+                <td>SD</td>
+                <TD>SD</TD>
+                <td>SD TAMBAKSARI 1</td>
+                <td>TAMBAKSARI</td>
+                <td>03 OA oa 0025783</td>
+              </tr>
+            </tbody>
+          </table>
       </div>
       <div class="modal-footer">
       <p><b><H5>RSUD MAJENANG &copy; 1998 - <script>document.write(new Date().getFullYear())</script></H5></p>
@@ -452,7 +745,74 @@ include_once "../_header.php";
             </li>
             </li>
           </ul>
-         
+          <table class="table table-xs table-responsive" style="font-size:11px">
+            <thead>
+            <th>No</th>
+            <th>Tk.Pendidikan</th>
+            <th>Jurusan</th>
+            <th>Nama Sekolah</th>
+            <th>Tempat</th>
+            <th>No. Ijazah</th>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td>S-2</td>
+                <td>S-2 KEPERAWATAN MEDICAL BEDAH</td>
+                <td>UNIVERSITAS PADJADJARAN</td>
+                <td>BANDUNG</td>
+                <td>141012021000130<td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <TD>S-1 SARJANA</TD>
+                <td>S-1 Keperawatan(NERS)</td>
+                <td>STIKES MU</td>
+                <td>GOMBONG</td>
+                <td>NS-35-00111<td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <TD>S-1 SARJANA</TD>
+                <td>S-1 Keperawatan NERS</td>
+                <td>STIKES MU</td>
+                <td>GOMBONG</td>
+                <td>41-00154</td>
+              </tr>
+              <tr>
+                <td>4</td>
+                <td>DIPLOMA III</td>
+                <TD>D-III KEPERAWATAN</TD>
+                <td>AKPER SERULINGMAS MAOS</td>
+                <td>MAOS</td>
+                <td>146090</td>
+              </tr>
+              <tr>
+                <td>5</td>
+                <td>SLTA</td>
+                <TD>SLTP SPK</TD>
+                <td>SPK DEPKES PURBALINGGA</td>
+                <td>PURBALINGGA</td>
+                <td>182530</td>
+              </tr>
+              <tr>
+                <td>6</td>
+                <td>SLTP</td>
+                <TD>SLTP UMUM</TD>
+                <td>SMP N 3 PURBALINGGA</td>
+                <td>PURBALINGGA</td>
+                <td>03 OA 1188985</td>
+              </tr>
+              <tr>
+                <td>7</td>
+                <td>SD</td>
+                <TD>SD</TD>
+                <td>SD PAGEDANGAN 2</td>
+                <td>PAGEDANGAN</td>
+                <td>03OA0456632</td>
+              </tr>
+            </tbody>
+          </table>
       </div>
       <div class="modal-footer">
       <p><b><H5>RSUD MAJENANG &copy; 1998 - <script>document.write(new Date().getFullYear())</script></H5></p>
@@ -497,7 +857,50 @@ include_once "../_header.php";
             </li>
             </li>
           </ul>
-         
+          <table class="table table-xs table-responsive" style="font-size:11px">
+            <thead>
+            <th>No</th>
+            <th>Tk.Pendidikan</th>
+            <th>Jurusan</th>
+            <th>Nama Sekolah</th>
+            <th>Tempat</th>
+            <th>No. Ijazah</th>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td>S-1</td>
+                <td>S-1 ILMU HUKUM</td>
+                <td>UNIVERSITAS GALUH</td>
+                <td>CIAMIS</td>
+                <td>41230433<td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <td>SLTA</td>
+                <TD>SMA IPA</TD>
+                <td>SMAN MAJENANG</td>
+                <td>MAJENANG</td>
+                <td>03OC oh 0323830</td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>SLTP</td>
+                <TD>SLTP UMUM</TD>
+                <td>SMP YOS SUDARSO</td>
+                <td>MAJENANG</td>
+                <td>03 OB ob1405146</td>
+              </tr>
+              <tr>
+                <td>4</td>
+                <td>SD</td>
+                <TD>SD</TD>
+                <td>SD NEGERI 2 CILEMPUYANG</td>
+                <td>CIMANGGU</td>
+                <td>03.0A.0a NO. 0</td>
+              </tr>
+            </tbody>
+            </table>
       </div>
       <div class="modal-footer">
       <p><b><H5>RSUD MAJENANG &copy; 1998 - <script>document.write(new Date().getFullYear())</script></H5></p>
@@ -541,7 +944,74 @@ include_once "../_header.php";
             </li>
             </li>
           </ul>
-          
+          <table class="table table-xs table-responsive" style="font-size:11px">
+            <thead>
+            <th>No</th>
+            <th>Tk.Pendidikan</th>
+            <th>Jurusan</th>
+            <th>Nama Sekolah</th>
+            <th>Tempat</th>
+            <th>No. Ijazah</th>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td>S-2</td>
+                <td>S-2 HUKUM KESEHATAN</td>
+                <td>UNIVERSITAS JENDRAL SOEDIRMAN</td>
+                <td>PURWOKERTO</td>
+                <td>3781/UN23/E/S-2/2017<td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <TD>S-1 SARJANA</TD>
+                <td>S-1 NERS</td>
+                <td>STIKES Muhammadiyah</td>
+                <td>GOMBONG</td>
+                <td>NS-35-00085<td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>S-1 SARJANA</td>
+                <TD>S-1 KEPERAWATAN</TD>
+                <td>STIKES Muhammadiyah</td>
+                <td>KEBUMEN</td>
+                <td>SMG/C/II.00151/VII/2008</td>
+              </tr>
+              <tr>
+                <td>4</td>
+                <td>DIPLOMA III</td>
+                <TD>D-III KEPERAWATAN</TD>
+                <td>AKPER SERULINGMAS MAOS</td>
+                <td>CILACAP</td>
+                <td>001/2003.067810</td>
+              </tr>
+              <tr>
+                <td>5</td>
+                <td>SLTA KEJURUAN</td>
+                <TD>SLTP SPK</TD>
+                <td>SPK DEPKES PURWOKERTO</td>
+                <td>PURWOKERTO</td>
+                <td>33.02.01.01.969.1997</td>
+              </tr>
+              <tr>
+                <td>6</td>
+                <td>SLTP</td>
+                <TD>SLTP UMUM</TD>
+                <td>SMP N 1 CIMANGGU</td>
+                <td>CIMANGGU</td>
+                <td>03.OA.ob. 1363480</td>
+              </tr>
+              <tr>
+                <td>7</td>
+                <td>SD</td>
+                <TD>SD</TD>
+                <td>SD CIMANGGU 1</td>
+                <td>CIMANGGU</td>
+                <td>03.OA.oa 0442592</td>
+              </tr>
+            </tbody>
+          </table>
       </div>
       <div class="modal-footer">
       <p><b><H5>RSUD MAJENANG &copy; 1998 - <script>document.write(new Date().getFullYear())</script></H5></p>
@@ -586,7 +1056,66 @@ include_once "../_header.php";
             </li>
             </li>
           </ul>
-          
+          <table class="table table-xs table-responsive" style="font-size:11px">
+            <thead>
+            <th>No</th>
+            <th>Tk.Pendidikan</th>
+            <th>Jurusan</th>
+            <th>Nama Sekolah</th>
+            <th>Tempat</th>
+            <th>No. Ijazah</th>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td>S-2</td>
+                <td>S-2 MAGISTER MANAJEMEN</td>
+                <td>UNIVERSITAS GALUH</td>
+                <td>CIAMIS</td>
+                <td>41235182300340<td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <TD>S-1 SARJANA</TD>
+                <td>S-1 AKUNTANSI</td>
+                <td>UNSOED</td>
+                <td>PURWOKERTO</td>
+                <td>33752/H23/C/5-1/H/2008<td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>S-1 SARJANA</td>
+                <TD>S-1 KEPERAWATAN</TD>
+                <td>STIKES Muhammadiyah</td>
+                <td>KEBUMEN</td>
+                <td>SMG/C/II.00151/VII/2008</td>
+              </tr>
+              <tr>
+                <td>4</td>
+                <td>SMA</td>
+                <TD>SMA IPA</TD>
+                <td>SMA 1</td>
+                <td>PURWOKERTO</td>
+                <td>DN 03 MU 0084403</td>
+              </tr>
+              <tr>
+                <td>5</td>
+                <td>SLTP</td>
+                <TD>SLTP UMUM</TD>
+                <td>SMP N 1 PURWOKERTO</td>
+                <td>PURWOKERTO</td>
+                <td>03 DI 0606785</td>
+              </tr>
+              <tr>
+                <td>6</td>
+                <td>SD</td>
+                <TD>SD</TD>
+                <td>SD SANTA MARIA</td>
+                <td>PURWOKERTO</td>
+                <td>03 Dd 0431159</td>
+              </tr>
+            </tbody>
+          </table>
       </div>
       <div class="modal-footer">
       <p><b><H5>RSUD MAJENANG &copy; 1998 - <script>document.write(new Date().getFullYear())</script></H5></p>
