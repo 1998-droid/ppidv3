@@ -133,6 +133,7 @@ include_once "../_header.php";
             <p><i class="glyphicon glyphicon-user light-red lighter bigger-120"></i>&nbsp;Kasubag Umum & Perencanaan</p>
             <div class="thumbnail-description smaller">Slack is a team communication</div>
           </div>
+          
         </div>
       </div>
      <!-- ending baris satu--> 
