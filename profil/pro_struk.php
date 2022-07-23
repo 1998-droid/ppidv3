@@ -151,7 +151,7 @@ include_once "../_header.php";
       <div class="modal-header">
         <img src="../asset/img/reza1.jpg" style="width:72px;height:72px;" />
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Direktur RSUD MAJENANG</h4>
+        <h4 class="modal-title">Direktur </h4>
       </div>
       <div class="modal-body">
         <p>dr. Reza Prima Muharama</p>
@@ -198,7 +198,7 @@ include_once "../_header.php";
       <div class="modal-header">
         <img src="../asset/img/arif1.jpg" style="width:72px;height:72px;" />
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Kabag UMUM RSUD MAJENANG</h4>
+        <h4 class="modal-title">PLT KA. BAGIAN UMUM </h4>
       </div>
       <div class="modal-body">
         <p>ARIF ABDULRAHMAN, S.KM., M.H</p>
@@ -244,7 +244,7 @@ include_once "../_header.php";
       <div class="modal-header">
         <img src="../asset/img/cahyodr.jpg" style="width:72px;height:72px;" />
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">KABID PELAYANAN RSUD MAJENANG</h4>
+        <h4 class="modal-title">KA. BIDANG PELAYANAN</h4>
       </div>
       <div class="modal-body">
         <p>dr. NUR CAHYO ANGGOROJATI</p>
@@ -289,7 +289,7 @@ include_once "../_header.php";
       <div class="modal-header">
         <img src="../asset/img/wartoy.jpg" style="width:72px;height:72px;" />
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">KABID PELAYANAN RSUD MAJENANG</h4>
+        <h4 class="modal-title">KASI. PELAYANAN MEDIK RAJAL DAN RANAP</h4>
       </div>
       <div class="modal-body">
         <p>dr. WARTOYO</p>
@@ -335,7 +335,7 @@ include_once "../_header.php";
       <div class="modal-header">
         <img src="../asset/img/dalyanto1.jpg" style="width:72px;height:72px;" />
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">KABID PELAYANAN RSUD MAJENANG</h4>
+        <h4 class="modal-title">KASI. PELAYANAN PENUNJANG MEDIK DAN NON MEDIK</h4>
       </div>
       <div class="modal-body">
         <p>DALYANTO, S.K.M., M.M.</p>
@@ -380,7 +380,7 @@ include_once "../_header.php";
       <div class="modal-header">
         <img src="../asset/img/mulyadi.jpg" style="width:72px;height:72px;" />
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">KABID PELAYANAN RSUD MAJENANG</h4>
+        <h4 class="modal-title">KASI. PELAYANAN KEPERAWATAN RAJAL</h4>
       </div>
       <div class="modal-body">
         <p>MULYADI, S.Kep.Ns</p>
@@ -425,7 +425,7 @@ include_once "../_header.php";
       <div class="modal-header">
         <img src="../asset/img/cahyo.jpg" style="width:72px;height:72px;" />
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">KABID PELAYANAN RSUD MAJENANG</h4>
+        <h4 class="modal-title">KASI. PELAYANAN KEPERAWATAN RANAP</h4>
       </div>
       <div class="modal-body">
         <p>CAHYO NUGROHO, S.Kep., Ners.M.Kep</p>
@@ -470,7 +470,7 @@ include_once "../_header.php";
       <div class="modal-header">
         <img src="../asset/img/slamet.jpg" style="width:72px;height:72px;" />
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">KABID KEPEGAWAIAN RSUD MAJENANG</h4>
+        <h4 class="modal-title">KASUB. UMUM DAN KEPEGAWAIAN</h4>
       </div>
       <div class="modal-body">
         <p>SLAMET, S.H.</p>
@@ -514,7 +514,7 @@ include_once "../_header.php";
       <div class="modal-header">
         <img src="../asset/img/tatang.jpg" style="width:72px;height:72px;" />
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">KABID PERENCANAAN RSUD MAJENANG</h4>
+        <h4 class="modal-title">KASUB. PERENCANAAN</h4>
       </div>
       <div class="modal-body">
         <p>ADHIE TATANG SUNARYA, S.Kep.Ners., M.H</p>
@@ -559,7 +559,7 @@ include_once "../_header.php";
       <div class="modal-header">
         <img src="../asset/img/andy.jpg" style="width:72px;height:72px;" />
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">KABID KEUANGAN</h4>
+        <h4 class="modal-title">KASUB. KEUANGAN</h4>
       </div>
       <div class="modal-body">
         <p>ANDY SETIAWAN</p>
