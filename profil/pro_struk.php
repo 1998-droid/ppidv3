@@ -149,7 +149,7 @@ include_once "../_header.php";
     <!-- Modal manager-->
     <div class="modal-content">
       <div class="modal-header">
-        <img src="../asset/img/reza1.jpg" style="width:120px;height:120px;" />
+        <img src="../asset/img/reza1.jpg" style="width:1000px;height:1000px;" />
         <button type="button" class="close" data-dismiss="modal">&times;</button>
         <h4 class="modal-title">Direktur </h4>
       </div>
