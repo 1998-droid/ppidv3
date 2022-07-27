@@ -148,7 +148,10 @@ include_once "../_header.php";
 
     <!-- Modal manager-->
     <div class="modal-content">
+<<<<<<< HEAD
     <div class="modal-dialog modal-xl">
+=======
+>>>>>>> 17d5a77ea7e145d622a8068df064e56e2ebc0634
       <div class="modal-header">
         <img src="../asset/img/reza1.jpg" style="width:120px;height:120px;" />
         <button type="button" class="close" data-dismiss="modal">&times;</button>
