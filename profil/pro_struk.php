@@ -147,7 +147,7 @@ include_once "../_header.php";
     <!-- Modal content-->
 
     <!-- Modal manager-->
-    <div class="modal-content" style="width:200px;height:200px;">
+    <div class="modal-content">
       <div class="modal-header">
         <img src="../asset/img/reza1.jpg" style="width:120px;height:120px;" />
         <button type="button" class="close" data-dismiss="modal">&times;</button>
