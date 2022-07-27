@@ -149,7 +149,7 @@ include_once "../_header.php";
     <!-- Modal manager-->
     <div class="modal-content">
       <div class="modal-header">
-        <img src="../asset/img/reza1.jpg" style="width:72px;height:72px;" />
+        <img src="../asset/img/reza1.jpg" style="width:120px;height:120px;" />
         <button type="button" class="close" data-dismiss="modal">&times;</button>
         <h4 class="modal-title">Direktur </h4>
       </div>
@@ -196,7 +196,7 @@ include_once "../_header.php";
     <!-- Modal kabid-->
     <div class="modal-content">
       <div class="modal-header">
-        <img src="../asset/img/arif1.jpg" style="width:72px;height:72px;" />
+        <img src="../asset/img/arif1.jpg" style="width:120px;height:120px;" />
         <button type="button" class="close" data-dismiss="modal">&times;</button>
         <h4 class="modal-title">PLT KA. BAGIAN UMUM </h4>
       </div>
@@ -242,7 +242,7 @@ include_once "../_header.php";
 
 <div class="modal-content">
       <div class="modal-header">
-        <img src="../asset/img/cahyodr.jpg" style="width:72px;height:72px;" />
+        <img src="../asset/img/cahyodr.jpg" style="width:120px;height:120px;" />
         <button type="button" class="close" data-dismiss="modal">&times;</button>
         <h4 class="modal-title">KA. BIDANG PELAYANAN</h4>
       </div>
@@ -287,7 +287,7 @@ include_once "../_header.php";
 
 <div class="modal-content">
       <div class="modal-header">
-        <img src="../asset/img/wartoy.jpg" style="width:72px;height:72px;" />
+        <img src="../asset/img/wartoy.jpg" style="width:120px;height:120px;" />
         <button type="button" class="close" data-dismiss="modal">&times;</button>
         <h4 class="modal-title">KASI. PELAYANAN MEDIK RAJAL DAN RANAP</h4>
       </div>
@@ -333,7 +333,7 @@ include_once "../_header.php";
 
 <div class="modal-content">
       <div class="modal-header">
-        <img src="../asset/img/dalyanto1.jpg" style="width:72px;height:72px;" />
+        <img src="../asset/img/dalyanto1.jpg" style="width:120px;height:120px;" />
         <button type="button" class="close" data-dismiss="modal">&times;</button>
         <h4 class="modal-title">KASI. PELAYANAN PENUNJANG MEDIK DAN NON MEDIK</h4>
       </div>
@@ -378,7 +378,7 @@ include_once "../_header.php";
 
 <div class="modal-content">
       <div class="modal-header">
-        <img src="../asset/img/mulyadi.jpg" style="width:72px;height:72px;" />
+        <img src="../asset/img/mulyadi.jpg" style="width:120px;height:120px;" />
         <button type="button" class="close" data-dismiss="modal">&times;</button>
         <h4 class="modal-title">KASI. PELAYANAN KEPERAWATAN RAJAL</h4>
       </div>
@@ -423,7 +423,7 @@ include_once "../_header.php";
 
 <div class="modal-content">
       <div class="modal-header">
-        <img src="../asset/img/cahyo.jpg" style="width:72px;height:72px;" />
+        <img src="../asset/img/cahyo.jpg" style="width:120px;height:120px;" />
         <button type="button" class="close" data-dismiss="modal">&times;</button>
         <h4 class="modal-title">KASI. PELAYANAN KEPERAWATAN RANAP</h4>
       </div>
@@ -468,7 +468,7 @@ include_once "../_header.php";
 
 <div class="modal-content">
       <div class="modal-header">
-        <img src="../asset/img/slamet.jpg" style="width:72px;height:72px;" />
+        <img src="../asset/img/slamet.jpg" style="width:120px;height:120px;" />
         <button type="button" class="close" data-dismiss="modal">&times;</button>
         <h4 class="modal-title">KASUB. UMUM DAN KEPEGAWAIAN</h4>
       </div>
@@ -512,7 +512,7 @@ include_once "../_header.php";
 
 <div class="modal-content">
       <div class="modal-header">
-        <img src="../asset/img/tatang.jpg" style="width:72px;height:72px;" />
+        <img src="../asset/img/tatang.jpg" style="width:120px;height:120px;" />
         <button type="button" class="close" data-dismiss="modal">&times;</button>
         <h4 class="modal-title">KASUB. PERENCANAAN</h4>
       </div>
@@ -557,7 +557,7 @@ include_once "../_header.php";
 
 <div class="modal-content">
       <div class="modal-header">
-        <img src="../asset/img/andy.jpg" style="width:72px;height:72px;" />
+        <img src="../asset/img/andy.jpg" style="width:120px;height:120px;" />
         <button type="button" class="close" data-dismiss="modal">&times;</button>
         <h4 class="modal-title">KASUB. KEUANGAN</h4>
       </div>
